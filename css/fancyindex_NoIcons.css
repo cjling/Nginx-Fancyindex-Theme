@@ -121,7 +121,6 @@ html, body {
 }
 
 tbody tr:first-child {
-  display: none;
 }
 
 tr.e {
